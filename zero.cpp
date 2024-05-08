@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
     int i=0;
-    cout<<"new paul\n";
     cout<<"git fouli\n";
     cout<<"%rdx0\n";
     cout<<"another one\n";
